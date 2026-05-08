@@ -1,0 +1,10 @@
+Insight Area,Key Finding,Business Action
+Overall Churn,Overall churn rate is 20.37%.,Use churn rate as the main KPI for retention monitoring.
+Geography,Germany has the highest churn rate at 32.44%.,"Investigate Germany-specific service, pricing, or product issues."
+Gender,Female customers show higher churn than male customers.,"Analyze gender pattern with age, geography, and product usage before action."
+Active Membership,Inactive customers churn much more than active customers.,Create reactivation campaigns for inactive customers.
+Number of Products,Customers with 3 or 4 products show extremely high churn.,Review product bundling and customer satisfaction for 3–4 product customers.
+Age Group,Customers aged 51–60 have the highest churn rate at 56.21%.,Design retention offers for middle-aged and older customers.
+Credit Card Ownership,Credit card ownership shows only a small churn difference.,Do not treat credit card ownership alone as a major churn driver.
+Balance Group,Customers with 100K–150K balance show a meaningful churn rate of 25.77%.,Prioritize high-value balance groups for retention outreach.
+Tenure,Tenure varies but does not show the strongest churn pattern.,"Use tenure as a supporting metric, not the main driver."
