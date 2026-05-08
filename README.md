@@ -23,9 +23,9 @@ Target column:
 - Python
 - pandas
 - Jupyter Notebook
+- SQL
 - CSV
 - Power BI planned
-- SQL planned
 
 ## Key KPI
 
@@ -63,4 +63,5 @@ banking-churn-dashboard
 │   └── insights_summary.csv
 ├── powerbi
 ├── sql
+│   └── churn_analysis_queries.sql
 └── README.md

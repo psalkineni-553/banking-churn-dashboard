@@ -50,16 +50,18 @@ Overall churn rate: 20.37%
 
 Current version completed:
 
+
 - Dataset inspection
+- Missing value check
 - Churn KPI calculation
 - Segment-level churn analysis
 - Insights summary CSV
 - Cleaned dashboard-ready CSV
+- Project documentation
+- SQL analysis query file
 
 Next version:
 
-- SQL analysis queries
 - Power BI dashboard
 - Dashboard screenshots
-- GitHub README
 - Portfolio case study page
