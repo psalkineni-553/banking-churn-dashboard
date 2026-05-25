@@ -27,6 +27,11 @@ Target column:
 - CSV
 - Power BI planned
 
+## Dashboard Preview
+
+![Banking Churn Dashboard](outputs/banking_churn_dashboard.png)
+
+
 ## Key KPI
 
 - Overall churn rate: **20.37%**
